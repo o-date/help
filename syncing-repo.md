@@ -4,6 +4,8 @@ Once you've forked a copy, you might find that by the time you're ready to do so
 
 So what we're going to do is pull INTO something FROM something.
 
+(in the screenshots below, I'm using the images from [this article](https://www.sitepoint.com/quick-tip-sync-your-fork-with-the-original-without-the-cli/)) 
+
 Begin by making a new pull request.
 ![](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/02/1454963675Screenshot-2016-02-08-21.33.23.png)
 

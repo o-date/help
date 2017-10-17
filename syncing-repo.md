@@ -2,7 +2,7 @@
 
 Once you've forked a copy, you might find that by the time you're ready to do some work on it, the main repo might've been updated. You'll know because there'll be a gray bar across the top of the file list saying **this branch is behind**.
 
-So what we're going to do is pull INTO your repo the update materials FROM my repo.
+So what we're going to do is pull INTO something FROM something.
 
 Begin by making a new pull request.
 ![](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/02/1454963675Screenshot-2016-02-08-21.33.23.png)

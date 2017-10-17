@@ -6,7 +6,7 @@ So what we're going to do is pull INTO something FROM something.
 
 (in the screenshots below, I'm using the images from [this article](https://www.sitepoint.com/quick-tip-sync-your-fork-with-the-original-without-the-cli/)) 
 
-Begin by making a new pull request.
+Notice that this repo is BEHIND. That's why we want to sync. Begin by making a new pull request.
 ![](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/02/1454963675Screenshot-2016-02-08-21.33.23.png)
 
 You'll see something like this:

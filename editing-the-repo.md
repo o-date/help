@@ -1,10 +1,9 @@
-## How to Add to the Material.
+## How to Add to the Material the First Time.
 
 Short version:
 1. Fork the repo
 2. Edit the relevant files
 3. Make a pull request.
-
 
 Long version:
 
@@ -30,7 +29,7 @@ You can continue to make changes on the file(s) you're working on. Once you're s
 You're now ready to ask me to pull - to incorporate-  your changes into the main repository. This is a 'Pull Request'.
 ![odate1](/help-images/odate-7.png)
 
-On this page, the only thing you need to do is hit the green button. The way to read the box above is 'pull INTO this repo FROM this repo'.
+On this page, the only thing you need to do is hit the green button. The way to read the box above is 'pull changes INTO this repo FROM this repo'.
 ![odate1](/help-images/odate-8.png)
 
 On this page, you leave a note describing the change(s) you've made. Then hit the green button.
@@ -38,3 +37,7 @@ On this page, you leave a note describing the change(s) you've made. Then hit th
 
 Now you're done. It should tell you that the changes can be merged. I will get a notification. You can continue to leave comments if you want. To continue working, hit the 'code' tab. If there are any issues at this stage (say two people have edited the same line at the same time), I'll get a notification and will resolve the conflict. 
 ![odate1](/help-images/odate-11.png)
+
+### Making edits when your copy is BEHIND the official repo
+- that is to say, you're copy is BEHIND by x commits
+- make sure to [sync the repo](syncing-repo.md) before you write

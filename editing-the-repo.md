@@ -1,3 +1,6 @@
-## A New Post
+## How to Add to the Material.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+1. Fork the repo
+2. Edit the relevant files
+3. Make a pull request.
+
